@@ -40,7 +40,7 @@ MovieRatingsAnalysis/
 ├── input/
 │   └── movie_ratings_data.csv
 ├── outputs/
-│   ├── binge_watching_patterns.txt
+│   ├── binge_watching_patterns.csv
 │   ├──churn_risk_users.csv
 │   └── movie_watching_trends.csv
 ├── src/
